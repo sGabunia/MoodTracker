@@ -1,6 +1,6 @@
 # MoodTracker App
 
-Can choose moods, see history and stats
+Can choose moods, see history, remove items with delete or swipe and see visualized stats
 
 
 ## Lessons Learned
